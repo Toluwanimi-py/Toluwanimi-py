@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toluwanimi-py
-- 👀 I’m interested in software development.
+- 👀 My interests are in data science, machine learning and AI
 - 🌱 I’m currently learning python programming.
 
 
